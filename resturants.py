@@ -5,5 +5,5 @@
 resturants = {
   "choong whoo": [], 
   "tai mai": [], 
-  "big bong cock": []
+  "bing bong crocks": []
 }

@@ -5,7 +5,7 @@
 
 
 food_and_resturants = {
-  "chinese": ["choong whoo", "tai mai", "big bong cock"],
+  "chinese": ["choong whoo", "tai mai", "bing bong crocks"],
   "italian": [],
   "mexican": [],
   "american": [],
