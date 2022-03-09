@@ -22,6 +22,21 @@ def print_resturant_info(type_of_resturant, resturant_dict):
   if type_of_resturant in resturant_dict:
     for resturant in resturant_dict:
       if type_of_resturant == resturant:
-        print("name, price, rating, address")  # need to update..
+        print("name, price, rating, address")  # need to update with own function..
   else:
     print("No such resturant in this area..")
+
+
+# print info on resturant
+# format:
+# \n
+# -----------------
+# name
+# price
+# rating
+# address \n\n
+def print_resturant(resturant):
+  pass
+
+
+
