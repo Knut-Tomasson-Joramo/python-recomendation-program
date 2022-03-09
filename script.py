@@ -16,4 +16,12 @@ def get_requested_type(string_input, list_of_types):
       result_list.append(type)
   return result_list
 
-print(get_requested_type("c", types))
+
+# function to print resturant info
+def print_resturant_info(type_of_resturant, resturant_dict):
+  if type_of_resturant in resturant_dict:
+    for resturant in resturant_dict:
+      if type_of_resturant == resturant:
+        print("name, price, rating, address")  # need to update..
+  else:
+    print("No such resturant in this area..")
