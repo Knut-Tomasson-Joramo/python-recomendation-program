@@ -2,11 +2,6 @@
 # creation date:  08.03.2022
 # author:         Knut Tomasson Joramo
 
-resturants = {
-  "choong whoo": [], 
-  "tai mai": [], 
-  "bing bong crocks": []
-}
 
 # took the easy way and downloaded resource file from codecademy xD
 types = ['german', 'japanese', 'vegetarian', 'french', 'african', 'american', 'barbecue', 'czech', 'chinese', 'thai',
